@@ -381,3 +381,8 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+.icom_row {
+  display: flex;
+  justify-content: space-between;
+}
